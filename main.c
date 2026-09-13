@@ -10,3 +10,4 @@ printf("THE VALUE OF c is %c \n" , c);
 return 0;
 
 }
+pooooooooooooooooooooooooooooo
